@@ -5,7 +5,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c193837e-03f0-48e2-8b07-66feca19b286" name="Default Changelist" comment="" />
+    <list default="true" id="c193837e-03f0-48e2-8b07-66feca19b286" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pruebaEmmet.html" beforeDir="false" afterPath="$PROJECT_DIR$/pruebaEmmet.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +51,7 @@
       <workItem from="1631147882024" duration="1092000" />
       <workItem from="1631205192800" duration="110000" />
       <workItem from="1631571700589" duration="447000" />
+      <workItem from="1631755981862" duration="414000" />
     </task>
     <servers />
   </component>
@@ -67,6 +71,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="515" y="315" width="477" height="192" key="Github.ShareDialog" timestamp="1631756311861">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="515" y="315" width="477" height="192" key="Github.ShareDialog/0.23.1280.777@0.23.1280.777" timestamp="1631756311861" />
+    <state x="441" y="123" key="Github.UntrackedFilesDialog" timestamp="1631756325047">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="441" y="123" key="Github.UntrackedFilesDialog/0.23.1280.777@0.23.1280.777" timestamp="1631756325047" />
     <state x="147" y="50" key="SettingsEditor" timestamp="1631572406728">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
